@@ -80,9 +80,9 @@ Declaración de sub_procesos:
     Fin
 
     Inicio
-    Hacer inicializar_juego()
-    Hacer turno_jugador()
-    Hacer turno_maquina()
+        Hacer inicializar_juego()
+        Hacer turno_jugador()
+        Hacer turno_maquina()
     Fin
 
 
